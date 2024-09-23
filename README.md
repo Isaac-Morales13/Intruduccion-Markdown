@@ -14,6 +14,7 @@ Esto es un bloque de texto
 [Enlace a Youtube](https://www.youtube.com)
 
 Así era el instituto antes:
+
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
 | Tabla de prueba | 
@@ -33,6 +34,7 @@ Lista de cosas :
 >Este texto es una cita
 
 Enlace a una imagen externa:
+
 ![](https://preview.redd.it/0o8hi3301ymb1.jpg?width=640&crop=smart&auto=webp&s=91a2bb7cced28c67d6715580c8b252a5483d4fa3)
 
 Imagen descargada:
